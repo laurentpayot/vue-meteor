@@ -1,2 +1,2 @@
-# vue-meteor-reactive
+# vue-meteor
 Vue Meteor integration
