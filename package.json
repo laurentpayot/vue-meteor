@@ -1,0 +1,22 @@
+{
+  "name": "vue-meteo",
+  "version": "1.0.0",
+  "description": "Adds mixins and methods to Vue.js for easier use with Meteor.",
+  "main": "vue-meteor.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/almini/vue-meteor.git"
+  },
+  "keywords": [
+    "vue",
+    "meteor"
+  ],
+  "author": {
+    "name": "Almin Iriskic"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/almini/vue-meteor/issues"
+  },
+  "homepage": "https://github.com/almini/vue-meteor"
+}
