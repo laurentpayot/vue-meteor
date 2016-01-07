@@ -1,6 +1,6 @@
 {
   "name": "vue-meteor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Adds mixins and methods to Vue.js for easier use with Meteor.",
   "main": "vue-meteor.js",
   "repository": {
