@@ -5,7 +5,7 @@
   "main": "vue-meteor.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/almini/vue-meteor.git"
+    "url": "git+https://github.com/laurentpayot/vue-meteor.git"
   },
   "keywords": [
     "vue",
