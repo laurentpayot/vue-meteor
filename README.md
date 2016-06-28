@@ -1,6 +1,8 @@
 # vue-meteor
 Adds mixins and methods to Vue.js for easier use with Meteor.
 
+This **laurentpayot** fork is compatible with older Node versions (pre ES2015). It works with [meteor-webpack](https://github.com/thereactivestack/meteor-webpack/tree/master/packages/webpack/).
+
 ## Installation
 
 ```
